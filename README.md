@@ -1,2 +1,2 @@
-# bouncy_ball
-made in visual studio code using matter.js(physics engine)
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
